@@ -1,0 +1,15 @@
+option.shadowMapResolution = Shadows
+value.shadowMapResolution.128 = None
+value.shadowMapResolution.256 = Fastest
+value.shadowMapResolution.512 = §2Fast
+value.shadowMapResolution.1024 = §fNormal
+value.shadowMapResolution.2048 = §eSlow
+value.shadowMapResolution.4096 = §6Very Slow
+value.shadowMapResolution.8192 = §cExtremely Slow
+value.shadowMapResolution.16384 = §4§l⚠ WARNING ⚠ §rONLY FOR §n§oHIGH END
+
+option.WAVING = Waving Foliage
+
+option.viewOutput = Map
+value.viewOutput.colortex0 = Normal View
+value.viewOutput.shadowcolor0 = Shadow Map
